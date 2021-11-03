@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCnAQ1RurByf+8tjBCkfRwhTg0UC8YphbZQcittWxjcMaHpTgGXoH2HTcyNOcM7YFX0uKId5KzlW3k3DTtdngw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SEFA$$\\Documents\\GitHub\\dnme\\instagrambot\\instagrambot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SEFA$$\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\SEFA$$\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512",
+    "C:\\Users\\SEFA$$\\.nuget\\packages\\selenium.webdriver.chromedriver\\95.0.4638.5400\\selenium.webdriver.chromedriver.95.0.4638.5400.nupkg.sha512"
+  ],
+  "logs": []
+}
